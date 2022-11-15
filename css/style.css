@@ -251,7 +251,7 @@ iframe {
   position: relative;
 }
 .section-img .center-div {
-  /* background-color: #d5b3ff; */
+  background-color: #d5b3ff;
   width: 1060px;
   height: 800px;
   z-index: -1;
